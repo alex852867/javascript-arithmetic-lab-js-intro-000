@@ -13,9 +13,3 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a/b)
 }
-function inc(n) {
-  number +=5
-}
-function dec(n) {
- number -=5
- }
