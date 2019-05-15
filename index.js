@@ -13,7 +13,7 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a/b)
 }
-var n=5
+var n=1
 function inc() {
-  n+=5
+  n+=1
 }
