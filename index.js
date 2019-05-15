@@ -14,9 +14,9 @@ function divide(a, b) {
   return (a/b)
 }
 var number = 5
-function add5() {
+function inc(n) {
   number +=5
 }
-function subtract5() {
+function de(n) {
  number -=5
  }
