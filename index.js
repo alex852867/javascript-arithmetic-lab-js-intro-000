@@ -17,6 +17,6 @@ var number = 5
 function inc(n) {
   number +=5
 }
-function de(n) {
+function dec(n) {
  number -=5
  }
