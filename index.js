@@ -15,5 +15,5 @@ function divide(a, b) {
 }
 var n=1
 function inc() {
-  n+=880
+  n+=675
 }
